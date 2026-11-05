@@ -8,16 +8,16 @@ Este espacio está diseñado para complementar las clases en video. Aquí encont
 
 *(Haz clic en cada carpeta para acceder a los archivos descargables)*
 
-*   📂 **[Capitulo-01-Fundamentos](./Capitulo-01)**: Principios CIA y tipos de Malware.
-*   📂 **[Capitulo-02-Criptografia](./Capitulo-02)**: *[Próximamente]*
-*   📂 **[Capitulo-03-Identidades](./Capitulo-03)**: *[Próximamente]*
-*   📂 **[Capitulo-04-Redes](./Capitulo-04)**: Direcciones IP, Puertos, DNS y Laboratorio de Diagnóstico (Ping/Traceroute).
-*   📂 **[Capitulo-05-Ingenieria-Social](./Capitulo-05)**: Phishing, Spear Phishing, Baiting y tácticas de manipulación psicológica.
-*   📂 **[Capitulo-06-OSINT](./Capitulo-06)**: *[Próximamente]*
-*   📂 **[Capitulo-07-Defensa-Perimetral](./Capitulo-07)**: Defensa en Profundidad, Firewalls (Reglas Deny All) y Honeypots.
-*   📂 **[Capitulo-08-Redes-Inalambricas](./Capitulo-08)**: Protocolos Wi-Fi (WEP, WPA2/3), Wi-Fi 7 y Li-Fi.
-*   📂 **[Capitulo-09-Infraestructuras-Criticas](./Capitulo-09)**: Entornos OT vs IT, caso Stuxnet y el ataque de Ransomware a Colonial Pipeline.
-*   📂 **[Capitulo-10-Futuro-y-ZeroTrust](./Capitulo-10)**: Arquitecturas de Confianza Cero y el impacto de la Inteligencia Artificial en la ofensiva/defensiva.
+*   📂 **[Capitulo-01: Fundamentos](./Capitulo-01)**: Principios CIA y tipos de Malware.
+*   📂 **[Capitulo-02: Criptografía y Hashes](./Capitulo-02)**: Criptografía y funciones Hash.
+*   📂 **[Capitulo-03: Pagos y Tokenización](./Capitulo-03)**: Seguridad en pagos digitales y Tokenización.
+*   📂 **[Capitulo-04: Redes y Protocolos](./Capitulo-04)**: Direcciones IP, Puertos, DNS y Laboratorio de Diagnóstico (Ping/Traceroute).
+*   📂 **[Capitulo-05: Ingeniería Social](./Capitulo-05)**: Phishing, Spear Phishing, Baiting y tácticas de manipulación psicológica.
+*   📂 **[Capitulo-06: DDoS y Botnets](./Capitulo-06)**: Ataques de denegación de servicio (DDoS) y redes de equipos zombis.
+*   📂 **[Capitulo-07: Defensa Perimetral](./Capitulo-07)**: Defensa en Profundidad, Firewalls (Reglas Deny All) y Honeypots.
+*   📂 **[Capitulo-08: Redes Inalámbricas](./Capitulo-08)**: Protocolos Wi-Fi (WEP, WPA2/3), Wi-Fi 7 y Li-Fi.
+*   📂 **[Capitulo-09: Infraestructuras Críticas](./Capitulo-09)**: Entornos OT vs IT, caso Stuxnet y el ataque de Ransomware a Colonial Pipeline.
+*   📂 **[Capitulo-10: Futuro y Zero Trust](./Capitulo-10)**: Arquitecturas de Confianza Cero y el impacto de la Inteligencia Artificial en la ofensiva/defensiva.
 
 ---
 
